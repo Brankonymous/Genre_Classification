@@ -1,0 +1,10 @@
+Lpcc + fingerprint:
+Nata:
+1. Test 75.5 (50 skrivenih)
+2. Val 76 (50 skrivenih)
+3. Train 79.5 (50 skrivenih)
+
+Gtzan:
+1. Test 28 (50 skrivenih)
+2. Val 40.5 (50 skrivenih)
+3. Train 44.5 (50 skrivenih)
