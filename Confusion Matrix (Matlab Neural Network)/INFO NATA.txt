@@ -1,0 +1,22 @@
+Nata:
+Train/Validation/Test/All (%)
+
+FGP			= 49.1 / 38.5 / 44.8 / 46.9
+SPC			= 87.9 / 84.8 / 90.7 / 87.9 (70 neurona)
+MFCC			= 93.9 / 88.9 / 88.9 / 92.4 (70 neurona)
+LPCC			= 95.4 / 85.9 / 91.1 / 93.3 (70 neurona)
+
+FGP + SPC   		= 96.9 / 84.1 / 86.3 / 93.4
+FGP + MFCC  		= 80.3 / 70.4 / 71.5 / 77.5
+FGP + LPCC 		= 90.2 / 82.2 / 81.5 / 87.7
+SPC + MFCC		= 96.3 / 91.1 / 95.9 / 95.5
+SPC + LPCC		= 98.0 / 90.4 / 91.5 / 95.9
+MFCC + LPCC		= 100. / 93.0 / 94.8 / 98.2
+
+FGP + SPC + MFCC	= 99.3 / 91.1 / 91.1 / 96.8
+FGP + SPC + LPCC	= 99.2 / 87.0 / 90.4 / 96.1
+FGP + MFCC + LPCC	= 98.7 / 88.9 / 84.1 / 95.0
+SPC + MFCC + LPCC	= 99.7 / 96.7 / 95.6 / 98.6 (140 neurona)
+
+FGP + SPC + MFCC + LPCC = 97.9 / 92.2 / 91.1 / 96.0
+

@@ -1,0 +1,10 @@
+Fingerprint + mfcc:
+Nata:
+1. Train 60 (50 skrivenih)
+2. Val 62 (50 skrivenih)
+3. Test 58 (50 skrivenih)
+
+Gtzan:
+1. Train 49 (50 skrivenih)
+2. Val 46 (50 skrivenih)
+3. Test 36 (50 skrivenih)
