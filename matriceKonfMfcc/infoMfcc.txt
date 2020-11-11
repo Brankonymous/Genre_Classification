@@ -1,0 +1,15 @@
+mfcc: Mreza oblika 12 -> 25 -> X (skriveni sloj koristi sigmoid aktivacionu funkciju)
+
+Nata(X = 6):
+val: 76.5
+train: 75.5
+test: 66.5
+
+Gtzan(X = 10):
+val: 52
+train: 51.5
+test: 38
+
+Matlab:
+nata: 87.4%
+gtzan: 60%

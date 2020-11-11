@@ -1,0 +1,22 @@
+Nata:
+mfcc + spektar 50 skrivenih -> 79 test (mfccIspektar50.h5)
+mfcc + spektar 50 skrivenih -> 82.5 val (mfccIspektar50.h5)
+mfcc + spektar 50 skrivenih -> 84.5 test (mfccIspektar50.h5)
+
+Gtzan:
+mfcc + spektar 50 skrivenih -> 43.5 test (mfccIspektarGtzan50.h5)
+mfcc + spektar 50 skrivenih -> 52.5 val (mfccIspektarGtzan50.h5)
+mfcc + spektar 50 skrivenih -> 57.5 train (mfccIspektarGtzan50.h5)
+
+MFCC i log:
+
+Nata:
+mfcc + log 50 skrivenih -> 67 test (mfccIlog50.h5)
+mfcc + log 50 skrivenih -> 77 val (mfccIlog50.h5)
+mfcc + log 50 skrivenih -> 75.5 train (mfccIlog50.h5)
+
+Gtzan:
+
+mfcc + log 50 skrivenih -> 41.5 test (mfccIlog50.h5)
+mfcc + log 50 skrivenih -> 48.5 val (mfccIlog50.h5)
+mfcc + log 50 skrivenih -> 52.5 train (mfccIlog50.h5)

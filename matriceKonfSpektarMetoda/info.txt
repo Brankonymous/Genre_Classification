@@ -1,0 +1,9 @@
+Za natinu bazu mreza:
+1. spektar ft: 32 ulazna, 25 skriveni i 6 izlazni 70%
+2. log ft: 32 ulazna, 25 skriveni i 6 izlazni 75%
+3. spektar + log ft: 64 ulazna, 25 skriveni i 6 izlazni 85%
+
+Za gtzan:
+1. spektar ft: 32 ulazna, 25 skriveni i 10 izlazni
+2. log ft: 32 ulazna, 25 skriveni i 10 izlazni 29%
+3. spektar + log ft: 64 ulazna, 25 skriveni i 10 izlazni 45% (matlab 58.7%)
