@@ -1,0 +1,80 @@
+Plan rada:
+----------
+Padjin:
+
+Spektar metoda:
+
+16. skidanje i ucitavanje baze, iz svake od pesama vadjenje delica od po x sekundi, primena DFT-a
+
+17. usrednjavanje na 32 segmenta, primena logaritma na spektar i usrednjavanje, priprema kepstra i usrednjavanje
+
+18. pravljenje modela koji je adekvatnih dimenzija za zeljenu klasifikaciju (vise modela, kako broj feature-a nije fiksan)
+
+19. Treniranje razlicitih kombinacija mreza i zapisivanje njihovih rezultata
+
+20. Treniranje razlicitih kombinacija mreza i zapisivanje njihovih rezultata
+
+21. Poredjenje rezultata sa gotovim funkcijama i diskusija o rezultatima, plotovanje grafika i pravljenje tabela rezultata
+
+22. Poredjenje rezultata sa gotovim funkcijama i diskusija o rezultatima, plotovanje grafika i pravljenje tabela rezultata
+
+MFCC:
+
+23. Implementacija svih koraka potrebnih za dobijanje koeficijenata MFCC-a
+
+24. Implementacija svih koraka potrebnih za dobijanje koeficijenata MFCC-a
+
+25. Dizajn mreze za MFCC
+
+26. Treniranje razlicitih modela, koji se razlikuju po broju koeficijenata, odabiru window funkcije...
+
+27. Treniranje razlicitih modela, koji se razlikuju po broju koeficijenata, odabiru window funkcije...
+
+28. Poredjenje sa gotovim funkcijama, plotovanje grafika i pravljenje tabela rezultata
+ 
+29. Dodavanje MFCC-u jos feature-a, kao sto su prvi i drugi izvod (naznaceno u metodu)
+
+30. Dodavanje MFCC-u jos feature-a, kao sto su prvi i drugi izvod (naznaceno u metodu)
+
+Branko:
+
+Fingerprint metoda:
+
+16. Skidanje i ucitavanje baze, iz svake od pesama vadjenje delica od po x sekundi, primena DFT-a
+
+17. Nalazenje peak-ova u 5 zadatih frekvencionih opsega i treniranje mreze
+
+18. Treniranje mreze
+
+19. Poredjenje i zapisivanje rezultata modela, pravljenje tabela uspesnosti i grafika
+
+20. Kontrolisano pomeranje granica opsega za trazenje pikova zarad boljih rezultata, pomeranje broja peak-ova
+
+21. Poredjenje i zapisivanje rezultata modela, pravljenje tabela uspesnosti i grafika
+
+LPCC:
+
+22. Ekstraktovanje LPC koeficijenata
+
+23. Ekstraktovanje kepstar koeficijenata
+
+24. Implementacija racunanja LPCC koeficijenata 
+
+25. Menjanje parametara kao sto su broj feature-a i odabir window funkcije 
+
+26. Poredjenje sa gotovom LPCC funkcijom, merenje rezultata
+
+27. Treniranje Mreze
+
+28. Poredjenje i zapisivanje rezultata modela, pravljenje tabela uspesnosti i grafika
+
+29. Konstrukcija mreze koja ce biti kompozicija prethodno uradjenih metoda
+
+30. Konstrukcija mreze koja ce biti kompozicija prethodno uradjenih metoda
+
+31. Poredjenje i zapisivanje rezultata modela, pravljenje tabela uspesnosti i grafika 
+
+
+
+
+
