@@ -1,0 +1,10 @@
+Fingerprint + spektar:
+Nata:
+1. train 45.5 (50 skrivenih)
+2. val 45 (50 skrivenih)
+3. test 43 (50 skrivenih)
+
+Gtzan:
+1. train 32.5 (50 skrivenih)
+2. val  34(50 skrivenih)
+3. test 22(50 skrivenih)
